@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/BSIT-Student-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Project%20Manager-lead-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Front-End-Developer-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Davao%20Philippines-red?style=for-the-badge" />
 </p>
 
