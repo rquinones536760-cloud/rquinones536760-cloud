@@ -1,38 +1,45 @@
 # 👋 Hi, I'm Ralph Joseph Quinones
 
-Welcome to my GitHub portfolio! I'm a **Bachelor of Science in Information Technology** student passionate about building web-based systems, databases, and practical software solutions.
+Welcome to my GitHub portfolio! I'm a **Project Manager and Front-End Developer** focused on building well-structured systems, clean user interfaces, and strong project documentation.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 4th Year BSIT Student (University of Mindanao)
-* 💻 Focus: Web Development, Systems Development, and Database Management
-* 🧠 Currently working on capstone projects involving GIS and web-based systems
-* 🔐 Interested in backend development, APIs, and system security
+* 📊 Role: Project Manager
+* 🎨 Front-End Developer (UI/UX Implementation)
+* 🧠 Strong focus on system planning, documentation, and web interfaces
 * 📍 Based in Davao, Philippines
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
-**Languages:**
+### 💻 Front-End Development
 
-* PHP
-* JavaScript
 * HTML / CSS
-* C#
-* SQL
+* JavaScript
+* Basic PHP (Laravel integration)
+* Responsive UI design
 
-**Frameworks & Tools:**
+### 📋 Project Management & Documentation
 
-* Laravel
-* MySQL
-* ASP.NET
-* XAMPP
+* System Analysis & Design
+* SRS (Software Requirements Specification)
+* UML Diagrams
+* Feasibility Studies
+* Agile Documentation
+* Capstone Research Writing
+
+### 🧰 Tools
+
 * Git & GitHub
-* Mapbox GL JS (GIS projects)
+* Laravel
+* XAMPP
 * Figma (UI/UX Design)
+* Mapbox GL JS (GIS projects)
+* MS Word / Google Docs
 
 ---
 
@@ -40,50 +47,67 @@ Welcome to my GitHub portfolio! I'm a **Bachelor of Science in Information Techn
 
 ### 📍 Dapit Himlay – GIS Cemetery Mapping System
 
-A web-based cemetery mapping and burial tracking system designed for Davao Memorial Park.
+A web-based cemetery mapping and burial tracking system for Davao Memorial Park.
+
+**My Role:**
+
+* Project Manager
+* Documentation Lead
+* Front-End Developer
 
 **Features:**
 
 * Interactive GIS map using Mapbox
-* Grave location search and navigation
+* Grave search and navigation
 * Burial record management
-* Role-based access control (Admin, Staff, Visitor)
-* A* pathfinding for navigation
+* Role-based access (Admin, Staff, Visitor)
+* Pathfinding navigation (A* algorithm)
 
 ---
 
 ### 💼 Inventory & POS System (Double-K Computer)
 
-A system that improves manual inventory tracking and sales processing.
+A system that improves inventory tracking and sales operations.
+
+**My Role:**
+
+* Project Manager
+* Documentation Lead
+* Front-End Support
 
 **Features:**
 
 * Inventory management
-* Sales reporting
-* Multi-payment support (Cash, GCash, Bank Transfer)
-* Supplier management system
+* Sales tracking
+* Payment options (Cash, GCash, Bank Transfer)
+* Supplier management
 
 ---
 
 ### 📊 Student Dropout Prediction System
 
-A data-driven system that predicts student academic performance and dropout risk.
+A system that predicts academic performance and dropout risk using data analysis.
+
+**My Role:**
+
+* Project Manager
+* Documentation & System Design
 
 ---
 
 ## 📈 Goals
 
-* Improve full-stack development skills
+* Improve front-end development skills
+* Strengthen project management capabilities
 * Build real-world deployable systems
-* Learn cloud deployment and DevOps basics
-* Contribute to open-source projects
+* Learn advanced web development and deployment
 
 ---
 
 ## 📫 Contact Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 📱 Facebook: your-facebook-link
+* 📧 Email: [r.quinones.536760@umindanao.edu.ph](mailto:r.quinones.536760@umindanao.edu.ph)
+* 📱 Facebook: [Ralph Quinones Facebook](https://www.facebook.com/ralphjosep.quinones?utm_source=chatgpt.com)
 * 🌐 Portfolio Website: coming soon
 
 ---
