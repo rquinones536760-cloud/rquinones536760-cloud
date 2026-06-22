@@ -81,16 +81,6 @@ I specialize in:
 
 ---
 
-### 📊 Student Dropout Prediction System
-> Data-driven academic risk prediction system
-
-- 📉 Student performance analysis  
-- 🧠 Predictive modeling concept  
-- 🎯 Decision support system  
-- 📚 Academic research & documentation  
-
----
-
 ## 🎯 Current Goals
 
 - Master full-stack development  
