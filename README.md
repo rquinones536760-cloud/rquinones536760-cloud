@@ -1,13 +1,3 @@
-# 👋 Hi, I'm Ralph Joseph Quinones  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BSIT-Student-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Project%20Manager-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Davao%20Philippines-red?style=for-the-badge" />
-</p>
-
----
-
 <!-- HEADER ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Ralph+Joseph+Quinones;Project+Manager+%7C+Front-End+Developer;Building+Web+Systems+%26+GIS+Applications;Clean+UI+%7C+Smart+Systems+%7C+Real+Impact" />
