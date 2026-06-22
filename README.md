@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ralph Joseph Quinones
 
-Welcome to my GitHub portfolio! I'm a **Project Manager and Front-End Developer** focused on building well-structured systems, clean user interfaces, and strong project documentation.
+Welcome to my GitHub portfolio! I'm a **Bachelor of Science in Information Technology student** focused on building systems, clean user interfaces, and strong project documentation.
 
 ---
 
@@ -26,7 +26,6 @@ Welcome to my GitHub portfolio! I'm a **Project Manager and Front-End Developer*
 ### 📋 Project Management & Documentation
 
 * System Analysis & Design
-* SRS (Software Requirements Specification)
 * UML Diagrams
 * Feasibility Studies
 * Agile Documentation
