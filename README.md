@@ -53,6 +53,7 @@ I specialize in:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Mapbox-GIS-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Figma-Design-pink?style=flat-square" />
+  <img src="https://img.shields.io/badge/GoHighLevel-CRM%20%26%20Automation-orange?style=flat-square&logo=none" />
 </p>
 
 ---
