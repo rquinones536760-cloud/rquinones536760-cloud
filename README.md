@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/BSIT-Student-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Role-Project%20Manager-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Davao%20Philippines-red?style=for-the-badge" />
 </p>
 
